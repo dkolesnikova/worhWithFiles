@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "name": "Farm Shop",
+  "work": true,
+  "products" : [
+    "Vegetable",
+    "Fruit",
+    "Cheese",
+    "Meat",
+    "Fish"
+  ],
+  "address": {
+    "city": "Smolensk",
+    "country": "Russia"
+  }
+
+
+}
